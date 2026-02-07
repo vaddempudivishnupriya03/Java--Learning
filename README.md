@@ -22,7 +22,3 @@ towards advanced concepts and projects.
 ## 🔗 Connect with Me
 - GitHub: https://github.com/vaddempudivishnupriya03
 - LinkedIn: (www.linkedin.com/in/vishnupriya-vaddempudi-b544213ab)
-
-## 🔗 Connect with Me
-- GitHub: https://github.com/vaddempudivishnupriya03
-- LinkedIn: (add your LinkedIn profile link here)
