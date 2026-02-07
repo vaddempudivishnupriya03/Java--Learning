@@ -22,3 +22,5 @@ towards advanced concepts and projects.
 ## 🔗 Connect with Me
 - GitHub: https://github.com/vaddempudivishnupriya03
 - LinkedIn: (www.linkedin.com/in/vishnupriya-vaddempudi-b544213ab)
+- HackerRank: https://www.hackerrank.com/profile/vaddempudivishn1
+- Leetcode: https://leetcode.com/u/VaddempudiVishnupriya/
